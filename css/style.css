@@ -27,7 +27,7 @@ body,html{
     transform: translate(-50%,-50%);
     color:rgb(75, 213, 238);
     font-family: 'Franklin Gothic Book', arial;
-    width: 58%;
+    text-align: center;
 }
 .backgroundIntro{
     z-index: 1;
