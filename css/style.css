@@ -60,7 +60,7 @@ body,html{
     color:yellow;
     font-size: 80px;
     transform:rotateX(45deg) translate(-50%,-1350vh) translateZ(-400px);
-    animation: scrollingText linear var(--timer-sec) calc(var(--text-out-timer) - 1s);
+    animation: scrollingText linear var(--timer-sec) calc(var(--text-out-timer) - 3s);
     width:2000px;
     font-family: "star wars";
     word-wrap: break-word;
